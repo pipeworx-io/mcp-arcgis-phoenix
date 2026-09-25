@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-phoenix",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Phoenix GIS — Phoenix, Arizona open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-54e3de854bf77723100d4bb8dd9dfd1131ffd600a0975b0cfb4f3b67208a6f91",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-10f57a916a12a9db7b848096bbbdd858a5f12d4fadb09d5a9be2c2a5a6de2de3",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
